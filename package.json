@@ -1,0 +1,16 @@
+{
+  "name": "hw4",
+  "version": "1.0.0",
+  "scripts": {
+    "open": "cypress open",
+    "test": "cypress run"
+  },
+  "author": "Karen Gozeyan",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^13.8.1",
+    "cypress-xpath": "^2.0.1"
+  },
+  "type": "module"
+}
